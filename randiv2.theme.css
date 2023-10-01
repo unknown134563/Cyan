@@ -1,7 +1,7 @@
 /**
- * @name Cyan
- * @description Clean and Customizable, with custom background support
- * @author DaBluLite#7409
+ * @name Randi Khana
+ * @author Randi user
+ * @description Anime
  * @authorId 582170007505731594
  * @version 5.0.0
  * @updateUrl https://dablulite.github.io/Cyan/Cyan.theme.css
@@ -9,27 +9,14 @@
  * @invite ZfPH6SDkMW
  */
 
-/*
-Huge thanks to all the contributors of this project!
 
-		     Contributors
-====================================================
-=						   =
-=           Custom Icons: Bootstrap Icons          =
-=          (Licensed Under the MIT Lisence)        =
-=        Darkened color scheme: maenDisease        =
-=               Code cleanup: lucism               =
-=        Additional code and help by carrot        =
-=						   =
-====================================================
-*/
  
 @import url(https://dablulite.github.io/Cyan/import.css);
 :root {
 	--cyan-background-primary: hsla(0deg 0% var(--cyan-background-lightness) / 40%);
 	--cyan-elevation-shadow: 0 0 0 1.5px var(--cyan-accent-color), 0 2px 10px 0 rgb(0 0 0 / 60%);
 	--cyan-font: 'Montserrat', 'Open Sans';
-	--cyan-background-img: url(https://dablulite.github.io/Cyan/cyan-waves.png);
+	--cyan-background-img: url(https://i.pinimg.com/236x/9a/81/0c/9a810c5f33da19a68f024b9b0a1408c1.jpg);
 	--cyan-accent-color: #009f88;
 	--cyan-blur-radius: 10px;
 	--cyan-status-mask-background: var(--profile-body-background-color);
